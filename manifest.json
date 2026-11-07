@@ -1,0 +1,23 @@
+{
+    "game":  "X8 Brawl",
+    "base_build":  "playtest_1106",
+    "patch":  1,
+    "version":  "playtest_1106 patch 1",
+    "created":  "2026-11-06T02:25:01",
+    "setup_url":  "",
+    "total_size":  857121,
+    "files":  [
+                  {
+                      "path":  "patches/patch_current.pck",
+                      "sha256":  "15b0c7f2e8f7733131b1b483750478bc1619468c59527ced1dd2386f721c9ec6",
+                      "size":  857108,
+                      "url":  "https://1drv.ms/u/c/41460ce4c1bfbaa9/IQDa2DSKRt_FTbddmBXMiVQqAT6mfqalFP1tP6oHLtZDpcE?e=p3DREX"
+                  },
+                  {
+                      "path":  "patches/base_build.txt",
+                      "sha256":  "8d15b27ce7ab588fe03f11a74a8b75c2eba541e0f7239eedef66e50d305b0abd",
+                      "size":  13,
+                      "data":  "cGxheXRlc3RfMTEwNg=="
+                  }
+              ]
+}

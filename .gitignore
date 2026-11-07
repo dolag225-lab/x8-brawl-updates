@@ -1,0 +1,9 @@
+# Whitelist: only the manifest, docs and updater scripts. No game files or assets, ever.
+*
+!.gitignore
+!README.md
+!manifest.json
+!updater/
+!updater/*.bat
+!updater/*.ps1
+!updater/update_source.txt

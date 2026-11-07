@@ -1,0 +1,12 @@
+# X8 Brawl update source. The updater uses the first line below that is not blank and does not start with #.
+# Put ONE of these on that line (replace PUT_UPDATE_SOURCE_HERE):
+#   a OneDrive "anyone with the link" share link to manifest.json (file link 1drv.ms/u/...; patch files need
+#     their own links in the manifest, set by tools\publish_links.json)
+#   a direct link to manifest.json                         https://example.com/x8/manifest.json
+#   a web folder (files under it)                          https://example.com/x8/
+#   a local or network folder                              D:\X8 Brawl updates   or   \\OtherPC\X8 Brawl
+# Changing this file needs no new build.
+# 11-06 folder link (anonymous API refused it: 400/401): https://1drv.ms/f/c/41460ce4c1bfbaa9/IgDE-EcteJ7eSKwrpEXQDL4IATOAxKPxSIb79fv9AUBlfL8?e=tolNmH
+# 11-07 previous OneDrive manifest link: https://1drv.ms/u/c/41460ce4c1bfbaa9/IQC6XOroImQsQokfge6_gjPBAUNQrMl-1QI6Lou08h8W8mc?e=XGdIY3
+# 11-07 GitHub (public; manifest only - game files stay on OneDrive links inside the manifest):
+https://raw.githubusercontent.com/dolag225-lab/x8-brawl-updates/main/manifest.json
